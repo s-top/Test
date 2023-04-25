@@ -1,4 +1,9 @@
  module.exports = {
+
+	// 后台地址
+	 SERVER_ADDRESS: 'http://127.0.0.1:3000',
+
+
  	//### 环境相关 
  	CLOUD_ID: 'volunteer-9g5m00sqc93a3c7f', //你的云环境id 
 
