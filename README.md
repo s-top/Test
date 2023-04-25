@@ -29,5 +29,4 @@
         app.js 加载页面的js处理逻辑
         app.json 首页定义的页面列表
 
-        
-        
+3、软件：IntelliJ全家桶   IDEA-编程  DATAGRIP-数据库
